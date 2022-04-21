@@ -2,7 +2,7 @@
 Web Scraping spider for extracting lots of information about each product in the paintings department of the Diferpan company website.
 
 
-Diferpan is a Construction products dristibuitor of Rio Grande do Sul, Brasil. I built this project alone as a job for a Painting Store, so at first I was not intending to make it public, but with the consent of the store owner I was able to post it in this repo.
+Diferpan is a Construction products distribuitor of Rio Grande do Sul, Brasil. I built this project alone as a job for a Painting Store, so at first I was not intending to make it public, but with the consent of the store owner I was able to post it in this repo.
 
 This project works for extracting information of hundreds of products of the Diferpan's Website, but unfortunatelly it lacks speed due to the Selenium module, which was not intended for web scraping but I decided to use it for its simplicity and visual verbose.
 
